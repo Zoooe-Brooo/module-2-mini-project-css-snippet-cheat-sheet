@@ -1,0 +1,27 @@
+:root {
+   --main-color: orange;
+   --border-and-words: white;
+   --border: solid;
+   --boder-2: dot; 
+}
+
+* {
+    background-color:rgb(230, 255, 247);
+}
+
+header {
+
+}
+
+
+main {
+
+}
+
+footer {
+
+}
+
+@media screen {
+    
+}
